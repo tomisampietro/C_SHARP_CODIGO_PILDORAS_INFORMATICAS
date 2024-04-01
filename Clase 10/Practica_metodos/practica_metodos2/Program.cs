@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿//SOBRECARGA DE METODOS. 
+=======
+﻿//SOBRECARGA DE METODOS.
+>>>>>>> 925fc243343e346ca51ac29a8da6da607336037d
 using System;
 namespace metodos
 {

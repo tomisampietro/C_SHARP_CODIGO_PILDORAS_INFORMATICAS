@@ -13,7 +13,11 @@ namespace metodos
             Console.WriteLine("Luego de ejecutar todas las lineas del metodo mensajeEnPantalla, se ejcutara esta, del metodo Main.");
             sumaNumeros(7, 9);
 
+<<<<<<< HEAD
             //Llamo al metodo RETURN.  
+=======
+            //Llamo al metodo RETURN.
+>>>>>>> 925fc243343e346ca51ac29a8da6da607336037d
             Console.WriteLine(restaNumeros(7, 9));
 
             //Llamo al metodo que muestra una varibale de clase:
